@@ -1,6 +1,18 @@
 # Optica
 Pagina Web Optica- Puede utilizarse de plantilla
 
+# Desarrolladores 
+
+Karla Chirino
+
+Antonia Trincado
+
+Camila Oyarzun 
+
+Marcelo Reyes
+
+Erick Soto
+
 # Como Iniciar la pagina
 1.- se debe descargar el proyecto como archivo zip
 
